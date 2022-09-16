@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mark Nambatac</h1>
-<h3 align="center">A goal-oriented and passionate developer from Philipines</h3>
+<h3 align="center">A goal-oriented and passionate developer from Philippines :philippines: </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marknambatac&label=Profile%20views&color=0e75b6&style=flat" alt="marknambatac" /> </p>
 
